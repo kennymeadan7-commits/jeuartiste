@@ -1,24 +1,19 @@
 # Projet Flutter – Jeu des Artistes
-
 ## Membres du groupe
 - ATAYI Mario
 - MEADAN Kenny
 - SOSSOU josias
-
 ## Thème choisi
 Artistes
-
 ## Description du jeu
 Le joueur doit retrouver le bon artiste parmi 9 images affichées à l’écran.
 Le jeu propose un nom d’artiste en haut de l’interface, et le joueur doit cliquer sur la bonne image correspondante.
-
 Le jeu contient :
 - un chronomètre de 1 minute
 - 3 vies
 - un système de score
 - un record sauvegardé
 - un écran de fin de partie
-
 ## Modifications réalisées
 Les principales modifications apportées au projet sont :
 - changement du thème initial en jeu des artistes
@@ -32,7 +27,6 @@ Les principales modifications apportées au projet sont :
 - ajout d’une page d’accueil
 - ajout d’une boîte de dialogue de fin de partie
 - amélioration de l’interface graphique
-
 ## Difficultés rencontrées
 - ajout et organisation des images dans le dossier assets
 - gestion du fichier pubspec.yaml
@@ -40,7 +34,6 @@ Les principales modifications apportées au projet sont :
 - installation et configuration de Flutter et Android Studio
 - sauvegarde du record avec shared_preferences
 - correction de certaines erreurs de chemins d’images
-
 ## Solutions
 - utilisation de listes pour stocker les informations des artistes
 - utilisation de GridView pour afficher les images
